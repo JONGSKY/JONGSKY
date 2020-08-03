@@ -1,6 +1,6 @@
 ### Welcome to JONSKY GITHUB.
 
-👋 I am a `Data Engineer`. I think there is an answer in the data <br/>
+👋 I am a **`Data Engineer`**. I think there is an answer in the data <br/>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-000000?style=flat-square&logo=github&link=https://jongsky.github.io/)](https://jongsky.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jong-sky/)](https://www.linkedin.com/in/jong-sky/)
