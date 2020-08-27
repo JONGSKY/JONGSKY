@@ -23,8 +23,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
-<code><img height="20" src="https://assets.brandfolder.com/pl546j-7le8zk-btwjnu/original/Slack_RGB.png"></code>
+<code><img height="20" src="https://banner2.cleanpng.com/20180204/gbw/kisspng-macintosh-mac-os-x-lion-macos-macbook-operating-sy-apple-logo-5a77a762126b40.8775341115177910740755.jpg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Windows_logo_-_2012.png"></code>
 <code><img height="20" src="http://logovectordl.com/wp-content/uploads/2019/11/notion-labs-inc-logo-vector.png"></code>
+<code><img height="20" src="https://assets.brandfolder.com/pl546j-7le8zk-btwjnu/original/Slack_RGB.png"></code>
 <code><img height="20" src="https://post.flow.team/wp-content/uploads/2020/02/flow_logo.gif"></code>
 
 <!--
