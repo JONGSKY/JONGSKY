@@ -2,11 +2,16 @@
 
 👋 I am a **`Data Engineer`**. I think there is an answer in the data <br/>
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-000000?style=flat-square&logo=github&link=https://jongsky.github.io/)](https://jongsky.github.io/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jong-sky/)](https://www.linkedin.com/in/jong-sky/)
+[![CV Badge](http://img.shields.io/badge/-JONGSKY%20CV-000000?style=flat-square&logo=github&link=https://jongsky.github.io/)](https://jongsky.github.io/)
+[![Linkedin Badge](http://img.shields.io/badge/-Study%20Log-gray?style=flat-square&logo=github&logoColor=white&link=https://www.linkedin.com/in/jong-sky/)](https://www.linkedin.com/in/jong-sky/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jongsky_data/)](https://www.instagram.com/jongsky_data/)
 [![Tableau Badge](https://img.shields.io/badge/-Tableau%20Public-2D4B65?style=flat-square&logo=tableau&logoColor=white&link=https://public.tableau.com/profile/.19603039#!/)](https://public.tableau.com/profile/.19603039#!/)
+[![Study Badge](http://img.shields.io/badge/-Study%20Log-gray?style=flat-square&logo=github&logoColor=white&link=https://jongsky.github.io/Study-Log/)]
+(https://jongsky.github.io/Study-Log/)
+
+<!--
 [![JONGSKY WEB](http://img.shields.io/badge/-JONGSKY-000000?style=flat-square&color=orange&logo=Jameson&link=https://jongsky.ga/)](https://jongsky.ga/)
+-->
 
 
 **Languages and Tools**  
