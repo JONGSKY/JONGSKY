@@ -3,7 +3,7 @@
 👋 I am a **`Data Engineer`**. I think there is an answer in the data <br/>
 
 [![CV Badge](http://img.shields.io/badge/-JONGSKY%20CV-000000?style=flat-square&logo=github&link=https://jongsky.github.io/)](https://jongsky.github.io/)
-[![Notion Badge](http://img.shields.io/badge/-Notion-E4E4E4?style=flat-square&logo=notion&logoColor=black&link=https://www.notion.so/jongsky)](https://www.notion.so/jongsky)
+[![Notion Badge](http://img.shields.io/badge/-Portfolio-F6F6F6?style=flat-square&logo=notion&logoColor=black&link=https://www.notion.so/jongsky)](https://www.notion.so/jongsky)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jong-sky/)](https://www.linkedin.com/in/jong-sky/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jongsky_data/)](https://www.instagram.com/jongsky_data/)
 [![Tableau Badge](https://img.shields.io/badge/-Tableau%20Public-2D4B65?style=flat-square&logo=tableau&logoColor=white&link=https://public.tableau.com/profile/.19603039#!/)](https://public.tableau.com/profile/.19603039#!/)
