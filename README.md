@@ -1,5 +1,7 @@
 ### Welcome to JONSKY GITHUB.
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJONGSKY&count_bg=%233FE5A3&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Number+of+visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+
 👋 I am a **`Data Engineer`**. I think there is an answer in the data <br/>
 
 [![CV Badge](http://img.shields.io/badge/-JONGSKY%20CV-000000?style=flat-square&logo=github&link=https://jongsky.github.io/)](https://jongsky.github.io/)
