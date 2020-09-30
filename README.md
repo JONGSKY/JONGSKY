@@ -2,9 +2,9 @@
 
 ## Welcome to JONSKY GITHUB. 
 
-#### 👋 I am a **`Data Engineer`**. I think there is an answer in the data <br/>
+👋 I am a **`Data Engineer`**. I think there is an answer in the data <br/>
 
-### **Languages and Tools**  
+**Languages and Tools**  
 
 <code><img alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="32"></code>
 <code><img alt="Tableau" src="https://cdn.filepicker.io/api/file/jZDILlufSOSDOkuJTZ7J" width="32"></code>
