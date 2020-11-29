@@ -2,7 +2,7 @@
 
 ## Welcome to JONSKY GITHUB. 
 
-👋 I am a **`Data Engineer`**. I think there is an answer in the data <br/>
+👋 I am a **`Data Engineer`**. I think there is an answer in the data. <br/>
 
 **Languages and Tools**  
 
