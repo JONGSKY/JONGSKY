@@ -4,7 +4,16 @@
 
 ![gitartwork](gitartwork.svg)
 
-<a href="https://github.com/JONGSKY"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> I am a **`Data Engineer`**. I think there is an answer in the data. <br/>
+<a href="https://github.com/JONGSKY"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> 
+I'm Jongho Lee, and you can call me JONGSKY.</br>
+I aim to develop my skills and perspectives between IT and business.
+
+<!-- - 🌱 I’m currently working on <b>[Optimization(OR)](https://github.com/koptimizer/my_Optimization-studio)</b>, <b>[Machine learning](https://github.com/koptimizer/my_Optimization-studio)</b> and Quantum Computing.
+- 🔎 I'm also interested in <b>[Cloud](https://github.com/koptimizer/my_Cloud-studio)</b>, <b>[Chat-bot](https://github.com/koptimizer/kakaotalk_chatbot_sandol)</b>, and <b>[W](https://github.com/koptimizer/koptimizer.tech)[e](https://github.com/koptimizer/IDALab.io)[b](https://github.com/koptimizer/CJB_shoppingMall_web_jsp) programming</b>. -->
+- 🤔 I think there is an answer in the data.
+- 💬 Ask me about anything <b>[here](https://github.com/JONGSKY/JONGSKY/issues)</b>.
+
+I am a **`Data Engineer`**. I think there is an answer in the data. <br/>
 
 
 ### Get to know me more
