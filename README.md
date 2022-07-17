@@ -13,9 +13,6 @@ I aim to develop my skills and perspectives between IT and business.
 - 🤔 I think there is an answer in the data.
 - 💬 Ask me about anything <b>[here](https://github.com/JONGSKY/JONGSKY/issues)</b>.
 
-I am a **`Data Engineer`**. I think there is an answer in the data. <br/>
-
-
 ### Get to know me more
 [![CV Badge](http://img.shields.io/badge/-JONGSKY%20CV-000000?style=flat-square&logo=github&link=https://jongsky.github.io/)](https://jongsky.github.io/)
 [![Notion Badge](http://img.shields.io/badge/-Portfolio-F6F6F6?style=flat-square&logo=notion&logoColor=black&link=https://www.notion.so/jongsky/Jongho-Lee-40fcd70fb3384dfd923c1b8370522cb0)](https://www.notion.so/jongsky/Jongho-Lee-40fcd70fb3384dfd923c1b8370522cb0)
