@@ -31,6 +31,28 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jongsky_data/)](https://www.instagram.com/jongsky_data/)
 [![Tableau Badge](https://img.shields.io/badge/-Tableau%20Public-2D4B65?style=flat-square&logo=tableau&logoColor=white&link=https://public.tableau.com/profile/.19603039#!/)](https://public.tableau.com/profile/.19603039#!/)
 [![Study Badge](http://img.shields.io/badge/-Study%20Log-gray?style=flat-square&logo=github&logoColor=white&link=https://jongsky.github.io/Study-Log/)](https://jongsky.github.io/Study-Log/)
+
+<a href="https://github.com/JONGSKY">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JONGSKY" />
+</a>
+<a href="https://github.com/JONGSKY">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JONGSKY&langs_count=3" />
+</a>
+ 
+ 
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 [![JONGSKY WEB](http://img.shields.io/badge/-JONGSKY-000000?style=flat-square&color=orange&logo=Jameson&link=https://jongsky.ga/)](https://jongsky.ga/)
 -->
