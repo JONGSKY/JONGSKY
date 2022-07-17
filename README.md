@@ -2,6 +2,8 @@
 
 ## Welcome to JONSKY GITHUB. 
 
+![gitartwork](gitartwork.svg)
+
 <a href="https://github.com/JONGSKY"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> I am a **`Data Engineer`**. I think there is an answer in the data. <br/>
 
 
@@ -24,7 +26,6 @@
 
 <a href="https://github.com/JONGSKY/github-readme-activity-graph"><img alt="JONGSKY's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JONGSKY&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-![snake gif](https://github.com/JONGSKY/JONGSKY/blob/output/github-contribution-grid-snake.gif)
 
 
 
