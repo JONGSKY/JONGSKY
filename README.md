@@ -13,7 +13,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jong-sky/)](https://www.linkedin.com/in/jong-sky/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ljhljh0125@gmail.com)](mailto:ljhljh0125@gmail.com)
 
-<a href="https://github.com/JONGSKY/github-readme-stats"><img alt="JONGSKY's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JONGSKY&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+ <a href="https://github.com/JONGSKY/github-readme-stats"><img alt="JONGSKY's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JONGSKY&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/JONGSKY/github-readme-stats"><img alt="JONGSKY's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JONGSKY&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
  
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
