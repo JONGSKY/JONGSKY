@@ -4,7 +4,27 @@
 
 <a href="https://github.com/JONGSKY"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> I am a **`Data Engineer`**. I think there is an answer in the data. <br/>
 
-**Languages and Tools**  
+
+### Get to know me more
+[![CV Badge](http://img.shields.io/badge/-JONGSKY%20CV-000000?style=flat-square&logo=github&link=https://jongsky.github.io/)](https://jongsky.github.io/)
+[![Notion Badge](http://img.shields.io/badge/-Portfolio-F6F6F6?style=flat-square&logo=notion&logoColor=black&link=https://www.notion.so/jongsky/Jongho-Lee-40fcd70fb3384dfd923c1b8370522cb0)](https://www.notion.so/jongsky/Jongho-Lee-40fcd70fb3384dfd923c1b8370522cb0)
+[![Tableau Badge](https://img.shields.io/badge/-Tableau%20Public-2D4B65?style=flat-square&logo=tableau&logoColor=white&link=https://public.tableau.com/profile/.19603039#!/)](https://public.tableau.com/profile/.19603039#!/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jongsky_data/)](https://www.instagram.com/jongsky_data/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jong-sky/)](https://www.linkedin.com/in/jong-sky/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ljhljh0125@gmail.com)](mailto:ljhljh0125@gmail.com)
+
+<a href="https://github.com/JONGSKY/github-readme-stats"><img alt="JONGSKY's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JONGSKY&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/JONGSKY/github-readme-stats"><img alt="JONGSKY's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JONGSKY&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+ 
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+<a href="https://github.com/JONGSKY/github-readme-activity-graph"><img alt="JONGSKY's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JONGSKY&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+![snake gif](https://github.com/JONGSKY/JONGSKY/blob/output/github-contribution-grid-snake.gif)
+
+
+
+<!-- **Languages and Tools**  
 
 <code><img alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="32"></code>
 <code><img alt="Tableau" src="https://cdn.filepicker.io/api/file/jZDILlufSOSDOkuJTZ7J" width="32"></code>
@@ -22,35 +42,7 @@
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Windows_logo_-_2012.png"></code>
 <code><img height="20" src="http://logovectordl.com/wp-content/uploads/2019/11/notion-labs-inc-logo-vector.png"></code>
 <code><img height="20" src="https://assets.brandfolder.com/pl546j-7le8zk-btwjnu/original/Slack_RGB.png"></code>
-<code><img height="20" src="https://post.flow.team/wp-content/uploads/2020/02/flow_logo.gif"></code>
-
-### Get to know me more
-[![CV Badge](http://img.shields.io/badge/-JONGSKY%20CV-000000?style=flat-square&logo=github&link=https://jongsky.github.io/)](https://jongsky.github.io/)
-[![Notion Badge](http://img.shields.io/badge/-Portfolio-F6F6F6?style=flat-square&logo=notion&logoColor=black&link=https://www.notion.so/jongsky/Jongho-Lee-40fcd70fb3384dfd923c1b8370522cb0)](https://www.notion.so/jongsky/Jongho-Lee-40fcd70fb3384dfd923c1b8370522cb0)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jong-sky/)](https://www.linkedin.com/in/jong-sky/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jongsky_data/)](https://www.instagram.com/jongsky_data/)
-[![Tableau Badge](https://img.shields.io/badge/-Tableau%20Public-2D4B65?style=flat-square&logo=tableau&logoColor=white&link=https://public.tableau.com/profile/.19603039#!/)](https://public.tableau.com/profile/.19603039#!/)
-[![Study Badge](http://img.shields.io/badge/-Study%20Log-gray?style=flat-square&logo=github&logoColor=white&link=https://jongsky.github.io/Study-Log/)](https://jongsky.github.io/Study-Log/)
-
-<a href="https://github.com/JONGSKY">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JONGSKY" />
-</a>
-<a href="https://github.com/JONGSKY">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JONGSKY&langs_count=3" />
-</a>
- 
- 
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-
-
-
-
-
-
-
-
+<code><img height="20" src="https://post.flow.team/wp-content/uploads/2020/02/flow_logo.gif"></code> -->
 
 
 <!--
