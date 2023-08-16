@@ -8,6 +8,8 @@
 I'm Jongho Lee, and you can call me JONGSKY.</br>
 I aim to develop my skills and perspectives between IT and business.
 
+I am currently working for [TEAMREBOOTT](https://reboott.ai/)
+
 <!-- - 🌱 I’m currently working on <b>[Optimization(OR)](https://github.com/koptimizer/my_Optimization-studio)</b>, <b>[Machine learning](https://github.com/koptimizer/my_Optimization-studio)</b> and Quantum Computing. -->
 - 🔎 I'm also interested in solving new problems through <b>[Data Analysis](https://github.com/JONGSKY/paper)</b> and <b>[Visualization](https://github.com/JONGSKY/Visualization)</b>.
 - 🤔 I think there is an answer in the data.
