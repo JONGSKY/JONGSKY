@@ -6,7 +6,7 @@
 
 <a href="https://github.com/JONGSKY"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> 
 I'm Jongho Lee, and you can call me JONGSKY.</br>
-I aim to develop my skills and perspectives between IT and business.
+I aim to develop my skills and perspectives between IT and business.</br>
 I'm currently working for [TEAMREBOOTT](https://reboott.ai/)
 
 <!-- - 🌱 I’m currently working on <b>[Optimization(OR)](https://github.com/koptimizer/my_Optimization-studio)</b>, <b>[Machine learning](https://github.com/koptimizer/my_Optimization-studio)</b> and Quantum Computing. -->
