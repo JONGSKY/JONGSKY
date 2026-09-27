@@ -11,13 +11,6 @@ I work at [TEAMREBOOTT](https://reboott.ai/) and explore the space between IT, d
 - 🤖 I am currently interested in AI-assisted development, data analysis, and visualization.
 - 💬 Ask me anything in [GitHub Issues](https://github.com/JONGSKY/JONGSKY/issues).
 
-### Featured work
-
-- **[Overlook](https://github.com/JONGSKY/Overlook)** — See what an AI coding agent actually changed in a pull request. Try the [live demo](https://overlook-olive.vercel.app/).
-- **[Thunder Search System](https://github.com/JONGSKY/Thunder-search-system)** — Patent and trademark search project.
-- **[Paper implementations](https://github.com/JONGSKY/paper)** — Implementations and notes from machine-learning papers.
-- **[Visualization](https://github.com/JONGSKY/Visualization)** — Data-visualization projects and experiments.
-
 ### Connect
 
 [![CV](https://img.shields.io/badge/CV-000000?style=flat-square&logo=github&logoColor=white)](https://jongsky.github.io/)
